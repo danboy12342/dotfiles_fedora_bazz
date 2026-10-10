@@ -54,3 +54,4 @@ shortcuts?
 | `Super` (Windows key) | Open application launcher |
 
 ---
+![Desktop Preview](Screenshot_20261011_002056.png)
